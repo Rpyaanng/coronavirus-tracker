@@ -1,6 +1,6 @@
 # CoronaVirus Tracker
 
-CoronaVirus Tracker is a simple application that I made using Spring Boot
+CoronaVirus Tracker is a simple application that I made using Spring Boot.
 
 ## Installation
 
@@ -8,21 +8,6 @@ CoronaVirus Tracker is a simple application that I made using Spring Boot
 
 ```bash
 ./mvnw spring-boot:run
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 ```
 
 ## Contributing
